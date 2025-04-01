@@ -20,7 +20,6 @@ I'm building a modern form builder application that allows you to create complex
 - shadcn/ui
 - DND Kit for drag-and-drop
 - React Hook Form
-- Zod for validation
 
 ## Getting Started
 
